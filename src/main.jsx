@@ -4,6 +4,7 @@ import App from './App.jsx';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import SignUp from './components/Signup.jsx';
 import SignIn from './components/Signin.jsx';
+import './index.css';
 import HomePage from './components/Homepage.jsx'; // Import HomePage
 
 // Create the router with routes

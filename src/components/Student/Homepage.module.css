@@ -1,0 +1,1161 @@
+.icon {
+    position: absolute;
+    top: -153px;
+    left: -124px;
+    width: 2101px;
+    height: 1372px;
+    object-fit: cover;
+    display: none; /* Adjust this according to your requirements */
+    mix-blend-mode: multiply;
+}
+
+.homePage {
+    width: 100%;
+    position: relative;
+    background-color: #1e1e1e; /* Retaining the original background color */
+    height: 1117px; /* Original height */
+    overflow: hidden;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    font-family: Inter;
+}
+
+.homePageChild {
+    position: rela;
+    top: -1001px;
+    left: -663px;
+    border-radius: 50%;
+    background: radial-gradient(50% 50% at 50% 50%, #005a81, rgba(30, 30, 30, 0));
+    width: 1866px;
+    height: 1866px;
+}
+
+.homePageItem {
+    position: absolute;
+    top: 478px;
+    left: 563px;
+    border-radius: 50%;
+    background: radial-gradient(50% 50% at 50% 50%, #005a81, rgba(30, 30, 30, 0));
+    width: 1866px;
+    height: 1866px;
+}
+
+.homePageInner {
+    position: absolute;
+    top: 0px;
+    left: -54px;
+    backdrop-filter: blur(36.6px);
+    background-color: rgba(0, 0, 0, 0.01);
+    width: 1934px;
+    height: 1179px;
+}
+
+.rectangleDiv {
+    position: absolute;
+    top: 73px;
+    left: 522px;
+    box-shadow: 0px 67px 67.4px -34px rgba(0, 0, 0, 0.35) inset;
+    border-radius: 348px;
+    background-color: #1e1e1e;
+    width: 684px;
+    height: 2004px;
+    display: none; /* Show or hide based on your needs */
+}
+
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    backdrop-filter: blur(16.8px);
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 439px;
+    height: 86px;
+}
+
+.campaignIcon {
+    width: 32px;
+    position: relative;
+    height: 32px;
+}
+
+.campaignWrapper {
+    border-radius: 8px;
+    background-color: #005a81;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px;
+}
+
+.announcement {
+    position: relative;
+    line-height: 140%;
+    font-weight: 600;
+    color: #fff; /* Ensure visibility */
+}
+
+.syllabusForInternal {
+    width: 257px;
+    position: relative;
+    font-size: 14px;
+    line-height: 140%;
+    color: #ccc; /* Keep original color for subtitle */
+    display: -webkit-inline-box;
+    align-items: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.announcementParent {
+    height: 62px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.frameGroup {
+    width: 346px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.wed {
+    position: relative;
+    line-height: 140%;
+    color: #ccc; /* Light gray for better visibility */
+}
+
+.wedWrapper {
+    width: 26px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #ccc; /* Maintaining color */
+}
+
+.frameParent {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 34px;
+}
+
+.rectangleParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 439px;
+    height: 86px;
+}
+
+.groupDiv {
+    position: absolute;
+    top: 24px;
+    left: 1265px;
+    filter: drop-shadow(1px 7px 30.4px rgba(0, 90, 129, 0.15));
+    width: 439px;
+    height: 86px;
+    font-size: 16px;
+    color: #fff; /* Ensure visibility */
+}
+
+.frameChild {
+    width: 64px;
+    position: relative;
+    border-radius: 50%;
+    height: 64px;
+    object-fit: cover;
+}
+
+.evanTony {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 120%;
+    font-weight: 600;
+    color: #fff; /* Ensure visibility */
+}
+
+.btechCe {
+    align-self: stretch;
+    position: relative;
+    font-size: 16px;
+    line-height: 140%;
+    font-weight: 600;
+    color: #ccc; /* Original color preserved */
+}
+
+.evanTonyParent {
+    width: 116px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+
+.ellipseParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.moreVertIcon {
+    width: 24px;
+    position: relative;
+    height: 24px;
+}
+
+.frameDiv {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 170px;
+}
+
+.tartILove {
+    align-self: stretch;
+    position: relative;
+    font-size: 16px;
+    line-height: 140%;
+    color: #ccc; /* Keep original color */
+}
+
+.frameContainer {
+    position: absolute;
+    top: 126px;
+    left: 1265px;
+    box-shadow: 1px 7px 30.4px rgba(0, 90, 129, 0.15);
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 439px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 24px;
+    box-sizing: border-box;
+    gap: 17px;
+}
+
+.search {
+    position: relative;
+}
+
+.filterAltIcon {
+    width: 26px;
+    position: relative;
+    height: 26px;
+}
+
+.filterAltParent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8px;
+}
+
+.searchParent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 274px;
+}
+
+.frameWrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 14px 14px 0px 0px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 439px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 11px 19px;
+    box-sizing: border-box;
+    mix-blend-mode: normal;
+    font-size: 18px;
+    color: #ccc; /* Texture color */
+}
+
+.groupItem {
+    position: absolute;
+    top: 48px;
+    left: 0px;
+    border-radius: 0px 0px 14px 14px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 439px;
+    height: 780px;
+}
+
+.frameItem {
+    width: 48px;
+    position: relative;
+    border-radius: 50%;
+    height: 48px;
+    object-fit: cover;
+}
+
+.analyst {
+    position: relative;
+    font-size: 14px;
+    line-height: 140%;
+    color: #ccc; /* Maintain color */
+}
+
+.nehaPathakParent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.ellipseGroup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 12px;
+}
+
+.mernStack {
+    position: relative;
+    font-size: 14px;
+    line-height: 140%;
+    text-align: right;
+}
+
+.gatewayDigitalParent {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    color: #ccc; /* Maintain color */
+}
+
+.frameParent3 {
+    width: 401px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px; /* Maintain original gap */
+}
+
+.instanceWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.frameParent2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 565.6px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.frameWrapper1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 401px;
+    height: 565.6px;
+}
+
+.groupWrapper {
+    position: absolute;
+    top: 64.19px;
+    left: 19px;
+    width: 401px;
+    height: 565.6px;
+}
+
+.groupInner {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 14px;
+    background-color: #133544;
+    width: 426px;
+    height: 63px;
+}
+
+.instanceWrapper10 {
+    position: absolute;
+    top: 8px;
+    left: 12px;
+    background-color: #133544;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.rectangleGroup {
+    position: absolute;
+    top: 247px;
+    left: 7px;
+    width: 426px;
+    height: 63px;
+}
+
+.frameParent1 {
+    position: absolute;
+    top: 315px;
+    left: 1265px;
+    box-shadow: 1px 7px 30.4px rgba(0, 90, 129, 0.2);
+    width: 439px;
+    height: 828px;
+    font-size: 16px;
+}
+
+.homePageChild1 {
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    box-shadow: 1px 7px 30.4px rgba(0, 90, 129, 0.15);
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 1225px;
+    height: 1069px;
+}
+
+.heyEvan {
+    align-self: stretch;
+    position: relative;
+    letter-spacing: -0.02em;
+    line-height: 120%;
+    color: #fff; /* Ensure visibility */
+}
+
+.letsMakeA {
+    align-self: stretch;
+    position: relative;
+    font-size: 20px;
+    line-height: 120%;
+    color: #ccc; /* Keep original visibility */
+}
+
+.heyEvanParent {
+    position: absolute;
+    top: 48px;
+    left: 48px;
+    width: 408px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+    font-size: 48px; /* Keep the original size for main headings */
+}
+
+.avatar {
+    width: 40px;
+    border-radius: 500px;
+    height: 40px;
+    display: none;
+}
+
+.subtitle {
+    width: 600px;
+    position: relative;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: 'Public Sans';
+    color: #637381;
+    display: none; /* Adjust as needed */
+    height: 22px;
+    flex-shrink: 0;
+}
+
+.text {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 4px;
+}
+
+.showAll {
+    position: relative;
+    font-size: 14px;
+    text-decoration: underline;
+    line-height: 140%;
+    color: #ccc; /* Original color */
+    text-align: right;
+}
+
+.textParent {
+    width: 296px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.stack {
+    width: 296px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.cardheader {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 24px 16px 24px 24px;
+}
+
+.text1 {
+    align-self: stretch;
+    position: relative;
+    font-size: 16px;
+    line-height: 140%;
+}
+
+.item {
+    align-self: stretch;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.stack1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 24px 24px;
+    gap: 16px;
+    font-size: 14px;
+    color: #ccc; /* Original color */
+}
+
+.userprofileaboutcard {
+    position: absolute;
+    top: 158px;
+    left: 48px;
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 344px;
+    height: 254px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.textGroup {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.stack2 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.cardheader1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 24px 16px 24px 24px;
+    font-size: 24px;
+    color: #fff; /* Maintain visibility */
+    font-family: Inter;
+}
+
+.cloudNativeMernStack {
+    margin: 0;
+    font-size: 16px;
+    line-height: 140%;
+    color: #ccc;
+    font-weight: 600; /* Ensure font weight is preserved */
+}
+
+.blankLine {
+    margin: 0;
+    
+}
+
+.developedAFullStack {
+    line-height: 140%;
+    color: #ccc;
+}
+
+.developedAFullStackApplica {
+    margin: 0;
+    font-size: 14px;
+    color: #ccc;
+}
+
+.technologiesReactjs {
+    margin: 0;
+    font-size: 14px;
+    line-height: 140%;
+    color: #ccc;
+    font-weight: 600; /* Ensure technology text is highlighted */
+}
+
+.text5 {
+    align-self: stretch;
+    position: relative;
+    font-size: 12px;
+    font-family: Inter;
+}
+
+.text6 {
+    position: relative;
+    line-height: 22px;
+}
+
+.item2 {
+    width: 296px;
+    overflow: hidden;
+    display: none; /* Keep this attribute as per original intent */
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.stack3 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 24px 24px;
+    gap: 16px;
+}
+
+.userprofileaboutcard1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 825px;
+    height: 254px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.userprofileaboutcardParent {
+    position: absolute;
+    top: 158px;
+    left: 400px;
+    width: 825px;
+    height: 254px;
+    font-size: 14px;
+    color: #212b36; /* Keep the color consistent */
+    font-family: 'Public Sans'; /* Maintaining the font */
+}
+
+.text15 {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.stack5 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px; /* Ensure original spacing */
+}
+
+.iconssolidicEvamoreVertic {
+    width: 20px;
+    position: relative;
+    height: 20px;
+}
+
+.action {
+    width: 36px;
+    border-radius: 500px;
+    height: 36px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.cardheader2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 24px 16px 24px 24px;
+    gap: 16px;
+}
+
+.stack7 {
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.stack6 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 24px 24px;
+    gap: 16px;
+    font-size: 16px;
+    color: #ccc; /* Maintain color */
+}
+
+.userprofilesocialcard {
+    position: absolute;
+    top: 420px;
+    left: 48px;
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 344px;
+    height: 206.4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.showAll2 {
+    position: relative;
+    font-size: 14px;
+    text-decoration: underline;
+    line-height: 140%;
+    color: #ccc; /* Maintain color */
+}
+
+.stackParent {
+    width: 296px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 16px;
+}
+
+.action1 {
+    width: 36px;
+    border-radius: 500px;
+    height: 36px;
+    display: none; /* Adjust based on your design */
+}
+
+.text21 {
+    position: relative;
+    line-height: 140%;
+    color: #ccc; /* Consistent coloring */
+}
+
+.stack12 {
+    align-self: stretch;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 208px;
+    z-index: 0;
+}
+
+.stack13 {
+    align-self: stretch;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 239px;
+    z-index: 1;
+}
+
+.stack14 {
+    align-self: stretch;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 229px;
+    z-index: 2;
+}
+
+.stack15 {
+    align-self: stretch;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 211px;
+    z-index: 3;
+}
+
+.stack16 {
+    width: 261px;
+    margin: 0 !important;
+    position: absolute;
+    top: 40px;
+    left: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none; /* Keep original setting */
+    z-index: 4;
+}
+
+.stack11 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0px 24px 24px;
+    position: relative;
+    gap: 16px;
+    font-size: 16px; /* Maintain original size */
+}
+
+.cardheaderParent {
+    position: absolute;
+    top: 635.39px;
+    left: 48px;
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 344px;
+    height: 236.4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.showAll3 {
+    position: relative;
+    font-size: 14px;
+    text-decoration: underline;
+    line-height: 140%;
+    color: #ccc; /* Maintain original color */
+    display: none; /* Original setting kept */
+}
+
+.text30 {
+    flex: 1;
+    position: relative;
+    line-height: 140%;
+    color: #ccc; /* Consistent color */
+    text-align: right;
+}
+
+.stack19 {
+    align-self: stretch;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 90px;
+    z-index: 0;
+}
+
+.stack20 {
+    align-self: stretch;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 104px;
+    z-index: 1;
+}
+
+.stack21 {
+    width: 261px;
+    margin: 0 !important;
+    position: absolute;
+    top: 40px;
+    left: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none; /* Original setting */
+    z-index: 2;
+}
+
+.cardheaderGroup {
+    position: absolute;
+    top: 879.39px;
+    height: 165px;
+    overflow: hidden;
+    left: 48px;
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 344px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.cardheaderContainer {
+    position: absolute;
+    top: 879.39px;
+    left: 400px;
+    height: 165px;
+    overflow: hidden;
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 344px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.stack27 {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.stack29 {
+    align-self: stretch;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 232px;
+    z-index: 0;
+}
+
+.cardheaderParent1 {
+    position: absolute;
+    top: 635.39px;
+    left: 400px;
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 344px;
+    height: 236.4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.showAll6 {
+    position: relative;
+    font-size: 14px;
+    text-decoration: underline;
+    line-height: 140%;
+    color: #ccc; /* Maintain visibility */
+    text-align: right;
+    display: none; /* Original setting */
+}
+
+.stack34 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+}
+
+.stackWrapper {
+    width: 296px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.iconssocialicInstagram {
+    width: 24px;
+    position: relative;
+    height: 24px;
+    display: none; /* Original setting */
+}
+
+.text49 {
+    position: relative;
+    line-height: 22px;
+    display: none; /* Original setting */
+}
+
+.stack37 {
+    width: 261px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none; /* Maintained from original */
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+    font-size: 14px;
+    color: #212b36; /* Original color */
+    font-family: 'Public Sans'; /* Original font */
+}
+
+.userprofilesocialcard1 {
+    position: absolute;
+    top: 420px;
+    left: 400px;
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 344px;
+    height: 206.4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.stackParent2 {
+    width: 425px;
+    display: flex;
+    flex-direction: row; /* Original layout */
+    align-items: center;
+    justify-content: space-between;
+}
+
+.userprofilesocialcard2 {
+    position: absolute;
+    top: 420px;
+    left: 752px;
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    width: 473px;
+    height: 206px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.frameWrapper3 {
+    width: 401px;
+    display: flex;
+    flex-direction: row;
+}
+
+.frameParent16 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 565.6px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 24px;
+    box-sizing: border-box;
+    gap: 16px;
+}
+
+.frameWrapper2 {
+    width: 449px;
+    position: relative;
+    height: 565.6px; /* Maintain original layout */
+}
+
+.groupContainer {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: -16px;
+    font-size: 16px;
+}
+
+.cardheaderParent2 {
+    position: absolute;
+    top: 635.39px;
+    left: 752px;
+    width: 470px;
+    height: 406px;
+    border-radius: 16px;
+    background-color: rgba(0, 90, 129, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
